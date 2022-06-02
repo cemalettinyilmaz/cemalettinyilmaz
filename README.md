@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 | Project Name        | Technology         
 |:-------------:|:-------------:|
-   |<a href="[https://github.com/cemalettinyilmaz/TamKafadan](https://github.com/cemalettinyilmaz/BAL-IK)" target="_blank">BAL-IK </a>| ASP.NET Core MVC, C#/JS/HTML/CSS/JQuery/Bootstrap, MSSQL|
+   |<a href="https://github.com/cemalettinyilmaz/BAL-IK" target="_blank">BAL-IK </a>| ASP.NET Core MVC, C#/JS/HTML/CSS/JQuery/Bootstrap, MSSQL|
   |<a href="https://github.com/cemalettinyilmaz/TamKafadan" target="_blank">Tam Kafadan Blog</a>| ASP.NET Core MVC, C#/JS/HTML/CSS/JQuery/Bootstrap, MSSQL https://tamkafadan.tk |
 |<a href="https://github.com/cemalettinyilmaz/RestaurantMVC" target="_blank">Restaurant MVC</a>| ASP.NET Core MVC, C#/JS/HTML/CSS/JQuery/Bootstrap, MSSQL https://menu.cemalettinyilmaz.tk |
 |<a href="https://github.com/cemalettinyilmaz/tictactoe" target="_blank">Tic Tac Toe</a>| JS/HTML/CSS https://cemalettinyilmaz.github.io/tictactoe/|
